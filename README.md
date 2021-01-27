@@ -1,0 +1,2 @@
+# corona_virus_prediction_using_vgg16_model
+using transfer learning
